@@ -13,7 +13,7 @@
             j = Console.ReadLine();           
             x = Convert.ToInt32(i);
             y = Convert.ToInt32(j);
-            coord1.setcoord(i, j);
+            coord1.setcoord(x, y);
         }
     }
 
